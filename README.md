@@ -14,3 +14,6 @@ http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-fo
 
 Columbia Applied Data Science:
 http://columbia-applied-data-science.github.io/
+
+Quora:
+https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=3799382
