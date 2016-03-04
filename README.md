@@ -19,3 +19,6 @@ Quora:
 https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=3799382
 
 http://101.datascience.community/tag/course/
+
+Star ***
+http://www.jscottcronin.com/blog?category=Galvanize
