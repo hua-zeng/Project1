@@ -22,3 +22,6 @@ http://101.datascience.community/tag/course/
 
 Star ***
 http://www.jscottcronin.com/blog?category=Galvanize
+
+Standford Tutorial:
+https://5harad.com/drop-in/tutorials
