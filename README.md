@@ -28,4 +28,5 @@ https://5harad.com/drop-in/tutorials
 
 ===================================
 https://www.quora.com/How-can-I-become-a-data-scientist-1
+
 https://www.quora.com/What-classes-should-I-take-if-I-want-to-become-a-data-scientist
